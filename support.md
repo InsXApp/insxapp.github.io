@@ -1,5 +1,4 @@
-## Support and contacts for InsX app 
-### Связь и техническая поддержка 
+## Support
 
 @insx_support  
 https://t.me/insx_app
